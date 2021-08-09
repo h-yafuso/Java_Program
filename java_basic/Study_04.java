@@ -107,7 +107,7 @@ class Study_04{
         // int num4 = 40;
         // int num5 = 50;
 
-        // int[] Number = {num1 ,num2 ,num3 ,num4 ,num5 ,};
+        // int[] Number = {num1 ,num2 ,num3 ,num4 ,num5};
 
         // System.out.println(Number[0]);
         // System.out.println(Number[1]);
